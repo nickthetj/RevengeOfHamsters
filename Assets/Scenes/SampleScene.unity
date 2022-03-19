@@ -1169,7 +1169,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3819056553728981034, guid: 6bde4b2ec9d0a4e9a9dbe60e861f06d4, type: 3}
       propertyPath: m_Name
-      value: Cherry
+      value: Cherry (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3819056553728981039, guid: 6bde4b2ec9d0a4e9a9dbe60e861f06d4, type: 3}
       propertyPath: m_RootOrder
